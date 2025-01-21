@@ -1,6 +1,6 @@
 # Useful links
 [Dockerfile](https://github.com/dshapova-ss/nb01212025/blob/main/Dockerfile) <br/>
-Full trivy scan folder before/after fix
+[Full trivy scan folder before/after fix](https://github.com/dshapova-ss/nb01212025/tree/main/trivyscanslogs)
 
 ## Trivy scans screenshots
 before fixes
